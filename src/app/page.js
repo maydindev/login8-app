@@ -4,9 +4,7 @@ export default function Home() {
   return (
     <div className="relative flex flex-col justify-center items-center min-h-screen">
       <svg
-        className="absolute inset-0 left-[77%] z-10"
-        width="345"
-        height="618"
+        className="absolute inset-0 left-[77%] z-10 w-[30%] h-auto"
         viewBox="0 0 345 618"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
@@ -30,9 +28,7 @@ export default function Home() {
         </defs>
       </svg>
       <svg
-        className="absolute inset-0 top-[23%] z-10"
-        width="709"
-        height="582"
+        className="absolute inset-0 top-[23%] z-10 w-[50%] h-auto"
         viewBox="0 0 709 582"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
